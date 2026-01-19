@@ -1,0 +1,11 @@
+{
+  "name": "Raspberry Pi Tools",
+  "version": "1.0",
+  "slug": "raspberrypi_tools",
+  "description": "Container mit vcgencmd und anderen Raspberry Pi Tools",
+  "arch": ["aarch64", "armv7", "armhf"],
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
